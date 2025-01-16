@@ -1,0 +1,15 @@
+{
+  "name": "navigator",
+  "version": "0.0.1",
+  "description": "this is a test run of the project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-routeros": "^1.6.8"
+  }
+}
